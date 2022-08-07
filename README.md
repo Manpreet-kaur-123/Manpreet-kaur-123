@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manpreet-kaur-123" alt="manpreet-kaur-123" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@manpreetkaur911" target="blank"><img src="https://img.shields.io/twitter/follow/@manpreetkaur911?logo=twitter&style=for-the-badge" alt="@manpreetkaur911" /></a> </p>
+<p align="left"> <a href="https://twitter.com/manpreetkaur911" target="blank"><img src="https://img.shields.io/twitter/follow/manpreetkaur911?logo=twitter&style=for-the-badge" alt="manpreetkaur911" /></a> </p>
 
 - 📫 How to reach me **kaurmanpreet8514@gmail.com**
 
