@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manpreet</h1>
 <img align="center"  width="100%" src="manpreet.png">
-<h3 align="center">I'm third year student pursuing my bachelor's in computer application from DAV college Jalandhar. I'm an open minded girl with love creating things through designs. Currently I'm into web development and working on my data structures and algorithm skills.</h3>
+<h3 align="center">I'm final year student pursuing my bachelor's in computer application from DAV college Jalandhar. I'm an open minded girl with love creating things through designs. Currently I'm into web development and working on my data structures and algorithm skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manpreet-kaur-123&label=Profile%20views&color=0e75b6&style=flat" alt="manpreet-kaur-123" /> </p>
 
