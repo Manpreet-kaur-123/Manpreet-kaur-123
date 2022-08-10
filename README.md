@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manpreet</h1>
-<img align="center"  width="100%" src="manpreet.png">
 <h3 align="center">I'm final year student pursuing my bachelor's degree in computer application from DAV college Jalandhar. I'm an open minded girl with love creating things through designs. Currently I'm into web development and working on my data structures and algorithm skills.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manpreet-kaur-123&label=Profile%20views&color=0e75b6&style=flat" alt="manpreet-kaur-123" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manpreet-kaur-123" alt="manpreet-kaur-123" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/manpreetkaur911" target="blank"><img src="https://img.shields.io/twitter/follow/manpreetkaur911?logo=twitter&style=for-the-badge" alt="manpreetkaur911" /></a> </p>
 
 - 📫 How to reach me **kaurmanpreet8514@gmail.com**
